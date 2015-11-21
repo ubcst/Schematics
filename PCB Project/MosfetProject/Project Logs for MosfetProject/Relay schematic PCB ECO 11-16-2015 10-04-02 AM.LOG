@@ -1,0 +1,26 @@
+Added Component: Designator=MOSFET-N(D2pakMOSFET)
+Added Component: Designator=MOSFET-N(D2pakMOSFET)
+Added Component: Designator=MOSFET-N(D2pakMOSFET)
+Added Component: Designator=MOSFET-N(D2pakMOSFET)
+Added Component: Designator=MOSFET-N(D2pakMOSFET)
+Added Component: Designator=MOSFET-N(D2pakMOSFET)
+Added Component: Designator=MOSFET-N(D2pakMOSFET)
+Added Component: Designator=MOSFET-N(D2pakMOSFET)
+Added Component: Designator=R?(AXIAL-0.3)
+Added Component: Designator=R?(AXIAL-0.3)
+Added Component: Designator=R?(AXIAL-0.3)
+Added Component: Designator=R?(AXIAL-0.3)
+Added Component: Designator=R?(AXIAL-0.3)
+Added Component: Designator=R?(AXIAL-0.3)
+Added Component: Designator=R?(AXIAL-0.3)
+Added Component: Designator=R?(AXIAL-0.3)
+Added Net: Name=GND
+Added Pin To Net: NetName=NetMOSFET-N_1 Pin=MOSFET-N-1
+Added Pin To Net: NetName=NetMOSFET-N_1 Pin=MOSFET-N-1
+Added Net: Name=NetMOSFET-N_1
+Added Pin To Net: NetName=NetMOSFET-N_2 Pin=R?-2
+Added Net: Name=NetMOSFET-N_2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Net: Name=NetR?_1
+Added Class: Name=Relay schematic
+Added Room: Name=Relay schematic
