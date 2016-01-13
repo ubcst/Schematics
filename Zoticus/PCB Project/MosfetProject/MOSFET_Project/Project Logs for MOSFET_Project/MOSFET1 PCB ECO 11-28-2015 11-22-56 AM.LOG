@@ -1,0 +1,84 @@
+Change Component Designator: OldDesignator=MOSFET-N NewDesignator=MOSFET-N1
+Change Component Designator: OldDesignator=MOSFET-N NewDesignator=MOSFET-N2
+Change Component Designator: OldDesignator=MOSFET-N NewDesignator=MOSFET-N3
+Change Component Designator: OldDesignator=MOSFET-N NewDesignator=MOSFET-N4
+Change Component Designator: OldDesignator=MOSFET-N NewDesignator=MOSFET-N5
+Change Component Designator: OldDesignator=MOSFET-N NewDesignator=MOSFET-N6
+Change Component Designator: OldDesignator=MOSFET-N NewDesignator=MOSFET-N7
+Change Component Designator: OldDesignator=MOSFET-N NewDesignator=MOSFET-N8
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Net Name : Old Net Name=NetMOSFET-N_1 New Net Name=NetMOSFET-N7_1
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR8_1
+Added Pin To Net: NetName=NetMOSFET-N1_1 Pin=MOSFET-N1-1
+Added Pin To Net: NetName=NetMOSFET-N1_1 Pin=MOSFET-N1-1
+Added Net: Name=NetMOSFET-N1_1
+Added Pin To Net: NetName=NetMOSFET-N1_2 Pin=R1-2
+Added Net: Name=NetMOSFET-N1_2
+Added Net: Name=NetMOSFET-N1_3
+Added Pin To Net: NetName=NetMOSFET-N2_1 Pin=MOSFET-N2-1
+Added Pin To Net: NetName=NetMOSFET-N2_1 Pin=MOSFET-N2-1
+Added Net: Name=NetMOSFET-N2_1
+Added Pin To Net: NetName=NetMOSFET-N2_2 Pin=R2-2
+Added Net: Name=NetMOSFET-N2_2
+Added Pin To Net: NetName=NetMOSFET-N3_1 Pin=MOSFET-N3-1
+Added Pin To Net: NetName=NetMOSFET-N3_1 Pin=MOSFET-N3-1
+Added Net: Name=NetMOSFET-N3_1
+Added Pin To Net: NetName=NetMOSFET-N3_2 Pin=R3-2
+Added Net: Name=NetMOSFET-N3_2
+Added Pin To Net: NetName=NetMOSFET-N4_1 Pin=MOSFET-N4-1
+Added Pin To Net: NetName=NetMOSFET-N4_1 Pin=MOSFET-N4-1
+Added Net: Name=NetMOSFET-N4_1
+Added Pin To Net: NetName=NetMOSFET-N4_2 Pin=R4-2
+Added Net: Name=NetMOSFET-N4_2
+Added Pin To Net: NetName=NetMOSFET-N5_1 Pin=MOSFET-N5-1
+Added Pin To Net: NetName=NetMOSFET-N5_1 Pin=MOSFET-N5-1
+Added Net: Name=NetMOSFET-N5_1
+Added Pin To Net: NetName=NetMOSFET-N5_2 Pin=R5-2
+Added Net: Name=NetMOSFET-N5_2
+Added Pin To Net: NetName=NetMOSFET-N6_1 Pin=MOSFET-N6-1
+Added Pin To Net: NetName=NetMOSFET-N6_1 Pin=MOSFET-N6-1
+Added Net: Name=NetMOSFET-N6_1
+Added Pin To Net: NetName=NetMOSFET-N6_2 Pin=R6-2
+Added Net: Name=NetMOSFET-N6_2
+Added Pin To Net: NetName=NetMOSFET-N7_2 Pin=R7-2
+Added Net: Name=NetMOSFET-N7_2
+Added Pin To Net: NetName=NetMOSFET-N8_1 Pin=MOSFET-N8-1
+Added Pin To Net: NetName=NetMOSFET-N8_1 Pin=MOSFET-N8-1
+Added Net: Name=NetMOSFET-N8_1
+Added Pin To Net: NetName=NetMOSFET-N8_2 Pin=R8-2
+Added Net: Name=NetMOSFET-N8_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Net: Name=NetR7_1
+Added Member To Class: ClassName=Relay schematic Member=Component MOSFET-N1 
+Added Member To Class: ClassName=Relay schematic Member=Component MOSFET-N2 
+Added Member To Class: ClassName=Relay schematic Member=Component MOSFET-N3 
+Added Member To Class: ClassName=Relay schematic Member=Component MOSFET-N4 
+Added Member To Class: ClassName=Relay schematic Member=Component MOSFET-N5 
+Added Member To Class: ClassName=Relay schematic Member=Component MOSFET-N6 
+Added Member To Class: ClassName=Relay schematic Member=Component MOSFET-N7 
+Added Member To Class: ClassName=Relay schematic Member=Component R1 PR01000101001JR500
+Added Member To Class: ClassName=Relay schematic Member=Component R2 PR01000101001JR500
+Added Member To Class: ClassName=Relay schematic Member=Component R3 PR01000101001JR500
+Added Member To Class: ClassName=Relay schematic Member=Component R4 PR01000101001JR500
+Added Member To Class: ClassName=Relay schematic Member=Component R5 PR01000101001JR500
+Added Member To Class: ClassName=Relay schematic Member=Component R6 PR01000101001JR500
+Added Member To Class: ClassName=Relay schematic Member=Component R7 PR01000101001JR500

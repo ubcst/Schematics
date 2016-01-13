@@ -1,0 +1,50 @@
+Added Component: Designator=F1(PIN-W2/E2.8)
+Added Component: Designator=Kills_if_MEGA_on(E3)
+Added Component: Designator=Kill Switch(SPST-2)
+Added Component: Designator=MOSFET-N(E3)
+Added Component: Designator=MOSFET-N(E3)
+Added Component: Designator=MOSFET-N(E3)
+Added Component: Designator=MOSFET-N(E3)
+Added Component: Designator=MOSFET-N(E3)
+Added Component: Designator=MOSFET-N(E3)
+Added Component: Designator=MOSFET-N(E3)
+Added Component: Designator=MOSFET-N(E3)
+Added Component: Designator=R?(AXIAL-0.3)
+Added Component: Designator=R?(AXIAL-0.3)
+Added Component: Designator=R?(AXIAL-0.3)
+Added Component: Designator=R?(AXIAL-0.3)
+Added Component: Designator=R?(AXIAL-0.3)
+Added Component: Designator=R?(AXIAL-0.3)
+Added Component: Designator=R?(AXIAL-0.3)
+Added Component: Designator=R?(AXIAL-0.3)
+Added Pin To Net: NetName=12V Pin=Kills_if_MEGA_on-1
+Added Net: Name=12V
+Added Pin To Net: NetName=GND Pin=Kill Switch-2
+Added Pin To Net: NetName=GND Pin=MOSFET-N-3
+Added Pin To Net: NetName=GND Pin=MOSFET-N-3
+Added Pin To Net: NetName=GND Pin=MOSFET-N-3
+Added Pin To Net: NetName=GND Pin=MOSFET-N-3
+Added Pin To Net: NetName=GND Pin=MOSFET-N-3
+Added Pin To Net: NetName=GND Pin=MOSFET-N-3
+Added Pin To Net: NetName=GND Pin=MOSFET-N-3
+Added Pin To Net: NetName=GND Pin=MOSFET-N-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=Kills_if_MEGA_on-3
+Added Pin To Net: NetName=NetF1_1 Pin=Kill Switch-1
+Added Net: Name=NetF1_1
+Added Pin To Net: NetName=NetF1_2 Pin=F1-2
+Added Net: Name=NetF1_2
+Added Pin To Net: NetName=NetKills_if_MEGA_on_2 Pin=Kills_if_MEGA_on-2
+Added Net: Name=NetKills_if_MEGA_on_2
+Added Pin To Net: NetName=NetMOSFET-N_1 Pin=MOSFET-N-1
+Added Net: Name=NetMOSFET-N_1
+Added Pin To Net: NetName=NetMOSFET-N_2 Pin=MOSFET-N-2
+Added Pin To Net: NetName=NetMOSFET-N_2 Pin=R?-2
+Added Net: Name=NetMOSFET-N_2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Net: Name=NetR?_1
+Added Class: Name=Kill_Switch_Fuse
+Added Class: Name=Relay schematic
+Added Room: Name=Kill_Switch_Fuse
+Added Room: Name=Relay schematic

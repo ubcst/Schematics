@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=NetMOSFET-N1_1 Pin=MOSFET-N2-1
+Added Pin To Net: NetName=NetMOSFET-N1_1 Pin=MOSFET-N3-1
+Added Pin To Net: NetName=NetMOSFET-N1_1 Pin=MOSFET-N5-1
+Added Pin To Net: NetName=NetMOSFET-N1_1 Pin=MOSFET-N6-1
+Added Pin To Net: NetName=NetMOSFET-N1_1 Pin=MOSFET-N7-1
+Added Pin To Net: NetName=NetMOSFET-N1_1 Pin=MOSFET-N8-1
+Added Room: Name=Relay schematic
