@@ -1,0 +1,35 @@
+Added Component: Designator=P1(HDR1X2)
+Added Component: Designator=P2(HDR1X2)
+Added Component: Designator=P3(HDR1X2)
+Added Component: Designator=P4(HDR1X2)
+Added Component: Designator=P(HDR2X20)
+Added Component: Designator=VR(D2PAK_N)
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Net: Name=NetP1_1
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Net: Name=NetP1_2
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Net: Name=NetP2_1
+Added Pin To Net: NetName=NetP2_2 Pin=P2-2
+Added Net: Name=NetP2_2
+Added Pin To Net: NetName=NetP4_1 Pin=P4-1
+Added Net: Name=NetP4_1
+Added Pin To Net: NetName=NetP4_2 Pin=P4-2
+Added Net: Name=NetP4_2
+Added Pin To Net: NetName=NetP_8 Pin=P-8
+Added Net: Name=NetP_8
+Added Pin To Net: NetName=NetP_9 Pin=P-9
+Added Net: Name=NetP_9
+Added Pin To Net: NetName=NetP_10 Pin=P-10
+Added Net: Name=NetP_10
+Added Pin To Net: NetName=NetP_11 Pin=P-11
+Added Net: Name=NetP_11
+Added Net: Name=NetU1_8
+Added Net: Name=NetU1_11
+Added Net: Name=NetU2_8
+Added Net: Name=NetU3_8
+Added Pin To Net: NetName=VCC Pin=P3-2
+Added Net: Name=VCC
+Added Class: Name=TC PCB
